@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 #include <string>
 using namespace std;
 
@@ -38,8 +38,6 @@ public:
 private:
 	double m_yearofeducation;
 };
-
-
 
 int main()
 {
